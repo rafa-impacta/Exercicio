@@ -14,6 +14,6 @@ tam = 20
  
 A = [0]*tam
 for i in range(tam):
-    A[i] = int(input('Digite um valor: '))
+    A[i] = int(input("Digite um valor: "))
 substitui(A,tam)
 print (A)
