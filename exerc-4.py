@@ -1,6 +1,6 @@
 arquivo = open("arquivo.txt","w")
 for i in range(1):
-    arquivo.write("Atividade 4 ")
+    arquivo.write("ola mundo ! ")
 arquivo.close()
 
 
